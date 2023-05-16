@@ -10,7 +10,7 @@ public class BankingApplication1 {
         double balance;
         double amount;
         Bank bank = new Bank();
-        Account account = account;
+        Account account = new Account();
         Scanner scan = new Scanner(System.in);
                 
         while(option !=6) {
